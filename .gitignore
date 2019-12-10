@@ -13,7 +13,7 @@
 */export/*
 */export/*.csv
 configure.yaml
-db.sqlite3
+#db.sqlite3
 scheduler.log
 celerybeat-schedule
 /venv
